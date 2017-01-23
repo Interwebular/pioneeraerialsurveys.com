@@ -60,6 +60,10 @@ a:link,a:visited { text-decoration: none; }
     text-decoration: none;
 }
 
+.half {
+    height: 50vh;
+}
+
 @-moz-keyframes bounce {
   0%, 20%, 50%, 80%, 100% {
     -moz-transform: translateY(0);
