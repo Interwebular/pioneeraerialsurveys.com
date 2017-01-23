@@ -1,0 +1,27 @@
+.section {
+    padding: 120px 0;
+}
+
+.section-about {
+
+}
+
+.section-image {
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    height: 450px;
+}
+
+.inverted {
+    background: #846B5B;
+}
+
+.inverted p {
+    color: #fff;
+}
+
+.inverted h3 {
+    color: #fff;
+}
